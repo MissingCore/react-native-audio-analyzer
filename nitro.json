@@ -14,16 +14,6 @@
         "language": "c++",
         "implementationClassName": "Processor"
       }
-    },
-    "FileSystem": {
-      "ios": {
-        "language": "swift",
-        "implementationClassName": "FileSystem"
-      },
-      "android": {
-        "language": "kotlin",
-        "implementationClassName": "FileSystem"
-      }
     }
   },
   "ignorePaths": ["**/node_modules"]
